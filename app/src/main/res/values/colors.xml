@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0D47A1</color>
+    <color name="colorPrimaryDark">#08306B</color>
+    <color name="fondoApp">#F2F5FA</color>
+    <color name="textoSecundario">#5C6B7A</color>
+    <color name="bordeInput">#C7D1DE</color>
+    <color name="montoPositivo">#2E7D32</color>
+    <color name="montoNegativo">#C62828</color>
+</resources>

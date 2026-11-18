@@ -1,0 +1,15 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+# Copia del reto de la Semana 2 (antes de convertirla en billetera); no se sube.
+/respaldo-semana2
+/apk
