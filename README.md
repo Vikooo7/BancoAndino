@@ -44,6 +44,11 @@ Las apps de RutaLog **nunca** llaman al banco: solo la API de RutaLog, por HTTP 
 
 ## Cómo abrirla
 
+**Lo más rápido:** descargar `BancoAndino-Billetera.apk` desde **Releases** (columna derecha de esta página), permitir
+"instalar apps de origen desconocido" y abrirla. Usa el banco publicado en `https://app-api-rutalog.vercel.app`.
+
+**O compilarla:**
+
 1. Android Studio → **Open** → esta carpeta.
 2. Esperar la sincronización de Gradle y ejecutar en un teléfono con internet.
 3. El lector de QR es el de Google Play Services: no pide permiso de cámara.
